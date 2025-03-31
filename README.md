@@ -76,4 +76,4 @@ This project is licensed under the MIT License
 
 - Weather data provided by OpenWeatherMap
 - Icons designed for weather conditions
-- Built with ❤️ by [Wendiblac] 
+- Built with ❤️ by Wendiblac 
